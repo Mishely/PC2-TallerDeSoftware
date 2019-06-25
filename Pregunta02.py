@@ -15,8 +15,6 @@
 #  el mensaje "Agradecemos su compra pero debe de juntar todos los tickets pedidos"
 # °Ademas debe decir el numero de tickets que se tiene
 
-
-
 Cliente = input("Ingrese su nombre: ")
 Tickets = int(input("Ingrese numnero de tickets: "))
 if 0 < Tickets >= 5:
